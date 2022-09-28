@@ -33,7 +33,7 @@ int main()
 
 	// Calculations
 
-	// Output to the screen
+	// Output to the screen and my sanity
 
 	if (choice == 1)
 	{
